@@ -14,9 +14,9 @@ int main()
     cout << "Please enter a number to be tripled: ";
     cin >> userInteger;
 
-    int doubleInt = userInteger * 3;
+    int tripleInt = userInteger * 3;
 
-    cout << "\nThe tripled integer is: " << doubleInt << ".\n\n"
+    cout << "\nThe tripled integer is: " << tripleInt << ".\n\n"
          << "Thanks for tripling. :)";
 
     return 0;
